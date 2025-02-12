@@ -33,6 +33,9 @@ Install required dependencies:
 cd domoticz/plugins/domoticz-goodwe-modbusudp-plugin
 sudo pip3 install -r requirements.txt
 ```
+Update requirement.txt to versions that aply to your situation as can be found here:
+https://www.piwheels.org/project/goodwe/
+https://www.piwheels.org/project/pymodbus/
 
 ### Windows
 Install the Goodwe Modbus UDP plugin:
